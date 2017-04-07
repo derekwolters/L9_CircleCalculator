@@ -1,0 +1,6 @@
+c:\users\derek\documents\visual studio 2015\Projects\L9_CircleCalculator\L9_CircleCalculator\bin\Debug\L9_CircleCalculator.exe.config
+c:\users\derek\documents\visual studio 2015\Projects\L9_CircleCalculator\L9_CircleCalculator\bin\Debug\L9_CircleCalculator.exe
+c:\users\derek\documents\visual studio 2015\Projects\L9_CircleCalculator\L9_CircleCalculator\bin\Debug\L9_CircleCalculator.pdb
+c:\users\derek\documents\visual studio 2015\Projects\L9_CircleCalculator\L9_CircleCalculator\obj\Debug\L9_CircleCalculator.csprojResolveAssemblyReference.cache
+c:\users\derek\documents\visual studio 2015\Projects\L9_CircleCalculator\L9_CircleCalculator\obj\Debug\L9_CircleCalculator.exe
+c:\users\derek\documents\visual studio 2015\Projects\L9_CircleCalculator\L9_CircleCalculator\obj\Debug\L9_CircleCalculator.pdb
